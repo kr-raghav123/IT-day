@@ -1,6 +1,6 @@
-# Solution-Challenge-CureNimal
-A Solution Challenge project
-https://gdsc-rtu.github.io/Solution-Challenge-CureNimal/
+# IT Day-Hackathon-CureNimal
+Project Link https://github.com/kr-raghav123/IT-day
+
 
 
 # Curenimal 
@@ -14,11 +14,11 @@ The site works equally well on PCs, laptops and mobiles.
 
 ## How to use:
 
-Reference video: https://www.youtube.com/watch?v=ol0KVSnNCFE  
+Reference video: https://youtu.be/K0vtBlMtq0E  
 
 -Get started be using the below link 
 
-https://gdsc-rtu.github.io/Solution-Challenge-CureNimal/
+https://kr-raghav123.github.io/IT-day/
 
 -Create an account by click sign up
 
@@ -45,9 +45,10 @@ https://gdsc-rtu.github.io/Solution-Challenge-CureNimal/
  
  SCSS
  
- ## SDG solving:
- 1. Life on land
- 2. Good Health & Wellbeing
+ ## Problem Solved:
+ 1. Social Impact
+ 2. Life on land
+ 3. Good Health & Wellbeing
 
 ## How to run the code:
 
@@ -55,13 +56,4 @@ https://gdsc-rtu.github.io/Solution-Challenge-CureNimal/
 2. Once the repository linked with your source code editor, you can see all the files, assets and code for every page in the website.
 3. Right click on the page you wish to open in your browser and select 'Open in live server'.
 
-
-## Team members
-Abhinav Tripathi  abhitrip2002@gmail.com
-
-Shrevi Jain      shrevijainbhl@gmail.com
-
-Sukriti Rajora    sukritirajora@gmail.com
-
-Tejas Prajapati   tejas.20cse404@rtu.ac.in
 "# IT-day" 
